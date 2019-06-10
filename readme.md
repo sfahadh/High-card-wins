@@ -1,10 +1,8 @@
-# Let's Play High-Card-Wins
+# High-Card-Wins
+A game on the classic high card wins
 
-## Introduction
-
-Let's play High Card! It's an exciting game of luck, skill, and... actually, no, just luck.
-
-High card works such that two players are dealt a card, and the player with the higher card wins.
+## About the App
+A game of chance in which both players draws a card and a winner is decided on who has the higher value card.
 
 e.g.
 
@@ -16,7 +14,10 @@ Player 2 wins!
 
 Run the game with:
 
-```bash
+```git zsh
 node main.js
 ```
-
+## Technologies Used
+- JavaScript
+- HTML5
+- CSS3
